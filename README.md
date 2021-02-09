@@ -9,4 +9,4 @@
 
 - 💬 Ask me about **how you can improve your documentation!**
 
-- 📫 How to reach us **hello@joshfinch.com**
+- 📫 How to reach me **hello@joshfinch.com**
