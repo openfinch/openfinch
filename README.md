@@ -9,4 +9,6 @@
 
 - 💬 Ask me about **how you can improve your documentation!**
 
+- 💬 ...Or **how you can make API's that aren't terrible!**
+
 - 📫 How to reach me **hello@joshfinch.com**
