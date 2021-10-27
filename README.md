@@ -5,10 +5,14 @@
 - 🔭 When I'm not doing that, I'm [building software for good](https://github.com/lacewingio) with Lacewing.
 - 👯 I'm looking to collaborate on [founding a trade union for tech workers](https://github.com/twunion)
 
-- 📝 I semi-regularly write articles on [my website](https://joshfinch.com).
-
-- 💬 Ask me about **how you can improve your documentation!**
-
-- 💬 ...Or **how you can make API's that aren't terrible!**
-
 - 📫 How to reach me **hello@joshfinch.com**
+
+---
+
+<h4 align="center">Eponyms</h4>
+
+**Finch's Law:** All problems are communication problems
+
+**Corollary to Finch's Law:** Technological solutions to communication problems are communication problems (edited) 
+
+**Finch's Theory of Fractal Badness:** It is possible for a thing to be fractally bad, such that it is impossible for anything that interacts with it to not also be bad.
