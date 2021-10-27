@@ -11,8 +11,8 @@
 
 <h4 align="center">Eponyms</h4>
 
-**Finch's Law:** All problems are communication problems
+**Finch's Law:** All problems are communication problems.
 
-**Corollary to Finch's Law:** Technological solutions to communication problems are communication problems (edited) 
+**Corollary to Finch's Law:** Technological solutions to communication problems are communication problems.
 
 **Finch's Theory of Fractal Badness:** It is possible for a thing to be fractally bad, such that it is impossible for anything that interacts with it to not also be bad.
